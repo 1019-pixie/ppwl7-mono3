@@ -47,8 +47,7 @@ Sebelum mulai coding, kita perlu daftarkan aplikasi di Google Cloud Console.
    ```
    http://localhost:3000/auth/callback
    ```
-4. klik **Download JSON** berisi Client ID & secret. 
-5. Rename file jadi **credentials.json**, masukkan ke root proyek.
+4. klik **Download JSON** berisi Client ID & Secret. Salin `ID` & `Secret` ke .env di backend.
    - [contoh-oauth-credential.png](https://github.com/user-attachments/assets/81fc0179-256c-4783-8e7f-cc25edf0ee0c):
 <img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/81fc0179-256c-4783-8e7f-cc25edf0ee0c" />
 
