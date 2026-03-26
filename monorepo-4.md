@@ -4,7 +4,8 @@ Proyek terakhir untuk mendapatkan deployment monorepo secara rapi:
    - Deploy terpisah: backend dan frontend project sendiri.
    - Koneksi ke github repo: Koneksi manual dari web vercel, tidak pakai Vercel CLI.
    - Vercel **Ignore Build Steps**: ketika hanya frotnend yang ada perubahan, backend tidak ikut ter build.
-   - Fungsi berjalan sama seperti di development.
+   - url param API_KEY untuk akses backend.
+   - Fungsi berjalan sama seperti di development local.
 2. Deploy database sqlite ke [turso](https://turso.tech/)
 
 ## Apps/Backend
